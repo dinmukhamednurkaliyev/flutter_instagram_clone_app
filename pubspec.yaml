@@ -7,6 +7,8 @@ environment:
   sdk: ^3.5.0
 
 dependencies:
+  api_repository:
+    path: packages/api_repository
   bloc: ^9.0.0
   flutter:
     sdk: flutter
